@@ -1,7 +1,8 @@
 <template><div><h1 id="get-started" tabindex="-1"><a class="header-anchor" href="#get-started"><span>Get Started</span></a></h1>
 <p>This is a normal page, which contains VuePress basics.</p>
 <h2 id="pages" tabindex="-1"><a class="header-anchor" href="#pages"><span>Pages</span></a></h2>
-<p>You can add markdown files in your vuepress directory, every markdown file will be converted to a page in your site.</p>
+<p>test
+You can add markdown files in your vuepress directory, every markdown file will be converted to a page in your site.</p>
 <p>See <a href="https://vuejs.press/guide/page.html#routing" target="_blank" rel="noopener noreferrer">routing</a> for more details.</p>
 <h2 id="content" tabindex="-1"><a class="header-anchor" href="#content"><span>Content</span></a></h2>
 <p>Every markdown file <a href="https://vuejs.press/guide/page.html#content" target="_blank" rel="noopener noreferrer">will be rendered to HTML, then converted to a Vue SFC</a>.</p>
